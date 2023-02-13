@@ -1,4 +1,3 @@
-
 // var letter2 =
 //   "Dear " +
 //   name +
