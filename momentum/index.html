@@ -8,10 +8,17 @@
     <meta charset="utf-8" />
   </head>
   <body>
-    <div id="login-form">
-      <input type="text" placeholder="what is your name?" />
-      <button>Log in</button>
-    </div>
+    <form id="login-form">
+      <input
+        required
+        maxlength="15"
+        type="text"
+        placeholder="what is your name?"
+      />
+      <input type="submit" value="Log in" />
+    </form>
+    <h1 id="greeting" class="hidden"></h1>
+    <a href="https://www.naver.com">Go to courses</a>
     <script src="app.js"></script>
   </body>
 </html>
