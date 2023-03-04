@@ -1,11 +1,11 @@
 Function
-  weather.js :  Get location, weather from openWeathermap api
-  greeting.js :  Greeting message for user
-  todo.js :  Manage To-do list
-  quotes.js : Show Quotes for happiness
-  background.js : background image
+  - weather.js :  Get location, weather from openWeathermap api
+  - greeting.js :  Greeting message for user
+  - todo.js :  Manage To-do list
+  - quotes.js : Show Quotes for happiness
+  - background.js : background image
   
- Language
+ Language : 
   html, Javascript, CSS
 
 
